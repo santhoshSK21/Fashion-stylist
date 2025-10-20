@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+mediapipe
+tensorflow
+keras
+torch
+torchvision
+
+# Web / API (for later phases)
+flask
+flask-cors
+fastapi
+uvicorn
+
+# Utilities
+jupyter
+notebook
+Pillow
+tqdm
+requests
